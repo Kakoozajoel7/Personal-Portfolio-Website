@@ -8,6 +8,7 @@ CSS3: Custom styling, color palette, typography, and responsive utilities.
 Bootstrap 5: Grid system, Navbar, Cards, Forms, and Icons.
 Google Fonts: 'Poppins' for modern typography.
 Bootstrap Icons: For social media and UI icons.
+
 ✨ Key Features
 Responsive Navigation: Collapsible hamburger menu on mobile devices.
 Hero Section: Full-screen introduction with a Call to Action (CTA).
@@ -15,6 +16,7 @@ About Section: Professional bio with skills displayed as badges.
 Project Gallery: 12-column grid layout using Bootstrap Cards.
 Contact Form: Styled form with validation-ready inputs.
 Custom Design: Overrides default Bootstrap styles with a unique color theme.
+
 🎨 Design Choices
 Color Palette:
 Primary: #2c3e50 (Dark Blue)
@@ -22,6 +24,7 @@ Secondary: #1abc9c (Teal)
 Background: #f8f9fa (Light Gray)
 Typography: 'Poppins' (Google Fonts) for a clean, modern look.
 Layout: Single-page scrolling design for easy navigation.
+
 📂 Installation & Setup
 To run this project locally, follow these steps:
 
